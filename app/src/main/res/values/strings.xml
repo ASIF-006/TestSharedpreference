@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestSharedpreference</string>
+    <string name="save">save</string>
+    <string name="retrieve">Retrieve</string>
+</resources>
